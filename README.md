@@ -11,7 +11,7 @@ This Solidity program is a simple "Hello World" program that demonstrates the ba
 
 ## Description
 
-For this project, i've created a simple contract with 2 functions. Then showed the values of those functions in frontend of the application.
+For this project, i've created a simple contract with 3 functions Deposit , Withdraw and Transfer. Then showed the values of those functions in frontend of the application.
 
 ## Getting Started
 
